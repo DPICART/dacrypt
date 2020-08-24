@@ -5,7 +5,7 @@ Had a look at java encode / decode.
 eCGuEs2Rvx0ClbieH5wBInf03QmkRZKPA5TNuiLUkxM=
 To be or not to be.
 
-## Run two
+## Run Two
 
 Encrypted 25 times: 
 

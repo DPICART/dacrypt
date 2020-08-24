@@ -1,11 +1,11 @@
 # DaCrypt
-Had a look at java encode / decode.
+Short program which test javax.crypto.* encoding/decoding.
 
-## Run One
+## Run One - Encrypts a message then decrypts it
 eCGuEs2Rvx0ClbieH5wBInf03QmkRZKPA5TNuiLUkxM=
 To be or not to be.
 
-## Run Two
+## Run Two - Encrypts a message 25 times then decrypts it
 
 Encrypted 25 times: 
 

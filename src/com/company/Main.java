@@ -31,7 +31,7 @@ public class Main {
         EncDecService encDecService = new EncDecService();
         SecretKey secretKey = encDecService.generateSecretKey();
         String encrypted = encDecService.encrypt(message, secretKey);
-        int times = 10;
+        int times = 25;
         for (int i = 0; i < times; i++) {
             encrypted = encDecService.encrypt(encrypted, secretKey);
         }
